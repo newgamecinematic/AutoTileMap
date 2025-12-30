@@ -29,8 +29,8 @@ jobs:
         # -------------------------------------------------------
         # [IMPORTANT] Change these to your own info in your repo!
         # -------------------------------------------------------
-        git config --global user.name "Daily Map Generator"
-        git config --global user.email "Example@github.com"
+        git config --global user.name "newgamecinematic"
+        git config --global user.email "newgamecinematic@gmail.com"
         
         # Add both README and JSON file
         git add README.md today_map.json
